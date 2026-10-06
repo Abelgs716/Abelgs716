@@ -4,7 +4,7 @@ I build things with **AI and automation** and share what works.
 
 - 🧪 Running LLMs locally on consumer hardware (RTX 3060, 12 GB)
 - ⚙️ Automating the boring stuff with Python
-- 📰 Posting daily AI news and experiments on [X @AbelDevX](https://x.com/AbelDevX)
+- 📰 Posting daily AI news and experiments on [X (@AbelDevX)](https://x.com/AbelDevX)
 
 ## 🚀 Projects
 
